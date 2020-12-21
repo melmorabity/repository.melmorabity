@@ -6,7 +6,7 @@ ADDON_FILES = addon.xml $(ASSET_FILES)
 ADDON_PACKAGE_FILE = $(ADDON_ID)-$(VERSION).zip
 
 KODI_ADDON_DIR = $(HOME)/.kodi/addons
-KODI_BRANCH = leia
+KODI_BRANCH = matrix
 
 
 all: package

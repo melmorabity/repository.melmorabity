@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.melmorabity" name="melmorabity Kodi repository for Leia" version="1.0.0" provider-name="melmorabity">
-  <extension point="xbmc.addon.repository" name="melmorabity Kodi repository for Leia">
-    <info>https://melmorabity.github.io/kodi-repository/leia/addons.xml</info>
-    <checksum>https://melmorabity.github.io/kodi-repository/leia/addons.xml.sha256</checksum>
-    <datadir zip="true">https://melmorabity.github.io/kodi-repository/leia/addons</datadir>
-    <artdir>https://melmorabity.github.io/kodi-repository/leia/addons</artdir>
+<addon id="repository.melmorabity" name="melmorabity Kodi repository for Matrix" version="1.0.0+matrix.1" provider-name="melmorabity">
+  <extension point="xbmc.addon.repository" name="melmorabity Kodi repository for Matrix">
+    <info>https://melmorabity.github.io/kodi-repository/matrix/addons.xml</info>
+    <checksum>https://melmorabity.github.io/kodi-repository/matrix/addons.xml.sha256</checksum>
+    <datadir zip="true">https://melmorabity.github.io/kodi-repository/matrix/addons</datadir>
+    <artdir>https://melmorabity.github.io/kodi-repository/matrix/addons</artdir>
     <hashes>sha256</hashes>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en_GB">melmorabity Kodi repository for Leia</summary>
-    <summary lang="fr_FR">Dépôt Kodi melmorabity pour Leia</summary>
-    <description lang="en_GB">melmorabity Kodi repository for Leia</description>
-    <description lang="fr_FR">Dépôt Kodi melmorabity pour Leia</description>
+    <summary lang="en_GB">melmorabity Kodi repository for Matrix</summary>
+    <summary lang="fr_FR">Dépôt Kodi melmorabity pour Matrix</summary>
+    <description lang="en_GB">melmorabity Kodi repository for Matrix</description>
+    <description lang="fr_FR">Dépôt Kodi melmorabity pour Matrix</description>
     <platform>all</platform>
     <assets>
       <icon>icon.png</icon>
